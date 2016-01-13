@@ -1,0 +1,104 @@
+[{
+  "name": "Oficiales",
+  "categories": [{
+    "name": "Cuenta UC",
+    "services": [{
+      "id": "PORTALUC",
+      "name": "Portal UC",
+      "description": "",
+      "image": ""
+    }, {
+      "id": "WEBCURSOS",
+      "name": "Web Cursos UC",
+      "description": "",
+      "image": ""
+    }, {
+      "id": "SIDING",
+      "name": "Siding",
+      "description": "",
+      "image": ""
+    }, {
+      "id": "LABMAT",
+      "name": "Labmat",
+      "description": "",
+      "image": ""
+    }]
+  }]
+}, {
+  "name": "Comunidad",
+  "categories": [{
+    "name": "Noticias",
+    "services": [{
+      "name": "El PUCLítico",
+      "description": "",
+      "url": "http://www.elpuclitico.cl",
+      "image": ""
+    }]
+  }, {
+    "name": "Sociales",
+    "services": [{
+      "name": "Animalia",
+      "description": "",
+      "url": "http://animaliauc.cl",
+      "image": ""
+    }]
+  }, {
+    "name": "Talleres",
+    "services": [{
+      "name": "La Resistencia",
+      "description": "",
+      "url": "https://www.facebook.com/laresistenciafanpage",
+      "image": ""
+    }]
+  }, {
+    "name": "Ocio",
+    "services": [{
+      "name": "Confesiones UC",
+      "description": "",
+      "url": "",
+      "image": ""
+    }, {
+      "name": "Cumplidos UC",
+      "description": "",
+      "url": "",
+      "image": ""
+    }]
+  }]
+}, {
+  "name": "Política",
+  "categories": [{
+    "name": "Partidos",
+    "services": [{
+      "name": "NAU!",
+      "description": "",
+      "url": "",
+      "image": ""
+    }, {
+      "name": "Solidaridad",
+      "description": "",
+      "url": "",
+      "image": ""
+    }, {
+      "name": "1A",
+      "description": "",
+      "url": "",
+      "image": ""
+    }, {
+      "name": "Crecer",
+      "description": "",
+      "url": "",
+      "image": ""
+    }]
+  }]
+}, {
+  "name": "Facultades",
+  "categories": [{
+    "name": "Ingeniería",
+    "services": [{
+      "name": "CAi",
+      "description": "Centro de Alumnos de Ingeniería",
+      "url": "http://cai.cl",
+      "image": ""
+    }]
+  }]
+}]
