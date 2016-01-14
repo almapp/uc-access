@@ -2,6 +2,7 @@
   "name": "Oficiales",
   "categories": [{
     "name": "Cuenta UC",
+    "detail": "Requieren usuario y contraseña",
     "services": [{
       "id": "PORTALUC",
       "name": "Portal UC",
