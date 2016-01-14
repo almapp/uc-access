@@ -71,6 +71,14 @@
 }, {
   "name": "Política",
   "categories": [{
+    "name": "",
+    "services": [{
+      "name": "FEUC",
+      "description": "Federación de Estudiantes de la Universidad Católica de Chile",
+      "url": "http://www.feuc.cl",
+      "image": "https://almapp.github.io/uc-access-assets/images/feuc.png"
+    }]
+  }, {
     "name": "Partidos",
     "services": [{
       "name": "NAU!",
