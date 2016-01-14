@@ -5,42 +5,46 @@
     "services": [{
       "id": "PORTALUC",
       "name": "Portal UC",
-      "description": "",
+      "description": "Organizador personal para estudiantes, docentes y administrativos de la UC",
+      "url": "https://portal.uc.cl",
       "image": ""
     }, {
       "id": "WEBCURSOS",
       "name": "Web Cursos UC",
-      "description": "",
+      "description": "Plataforma de cursos",
+      "url": "http://webcurso.uc.cl/portal",
       "image": ""
     }, {
       "id": "SIDING",
       "name": "Siding",
-      "description": "",
+      "description": "Sistema de Información y Gestión de Ingeniería",
+      "url": "https://www.ing.uc.cl",
       "image": ""
     }, {
       "id": "LABMAT",
       "name": "Labmat",
-      "description": "",
+      "description": "Plataforma de cursos de Matemáticas",
+      "url": "http://www.labmat.puc.cl",
       "image": ""
     }]
   }]
 }, {
   "name": "Comunidad",
   "categories": [{
-    "name": "Noticias",
+    "name": "Opinión",
     "services": [{
       "name": "El PUCLítico",
-      "description": "",
+      "description": "Medio de opinión y vida universitaria",
       "url": "http://www.elpuclitico.cl",
-      "image": ""
+      "image": "https://almapp.github.io/uc-access-assets/images/puclitico.png"
     }]
   }, {
     "name": "Sociales",
     "services": [{
       "name": "Animalia",
-      "description": "",
+      "description": "Salud, Adopción y Educación",
       "url": "http://animaliauc.cl",
-      "image": ""
+      "image": "https://almapp.github.io/uc-access-assets/images/animalia.png"
     }]
   }, {
     "name": "Talleres",
@@ -48,20 +52,20 @@
       "name": "La Resistencia",
       "description": "",
       "url": "https://www.facebook.com/laresistenciafanpage",
-      "image": ""
+      "image": "https://almapp.github.io/uc-access-assets/images/resistencia.png"
     }]
   }, {
     "name": "Ocio",
     "services": [{
-      "name": "Confesiones UC",
+      "name": "Confesiones UCé",
       "description": "",
-      "url": "",
-      "image": ""
+      "url": "https://www.facebook.com/confesionesuc2",
+      "image": "https://almapp.github.io/uc-access-assets/images/confesiones.png"
     }, {
       "name": "Cumplidos UC",
       "description": "",
-      "url": "",
-      "image": ""
+      "url": "https://www.facebook.com/Cumplidos-UC-1604783119776358",
+      "image": "https://almapp.github.io/uc-access-assets/images/confesiones.png"
     }]
   }]
 }, {
@@ -71,23 +75,23 @@
     "services": [{
       "name": "NAU!",
       "description": "",
-      "url": "",
-      "image": ""
+      "url": "http://www.nau.cl/web",
+      "image": "https://almapp.github.io/uc-access-assets/images/nau.png"
     }, {
       "name": "Solidaridad",
       "description": "",
-      "url": "",
-      "image": ""
+      "url": "https://www.facebook.com/solidaridad.uc",
+      "image": "https://almapp.github.io/uc-access-assets/images/solidaridad.png"
     }, {
       "name": "1A",
       "description": "",
-      "url": "",
-      "image": ""
+      "url": "http://1a.cl",
+      "image": "https://almapp.github.io/uc-access-assets/images/1a.png"
     }, {
       "name": "Crecer",
       "description": "",
-      "url": "",
-      "image": ""
+      "url": "https://www.facebook.com/crecer.uc",
+      "image": "https://almapp.github.io/uc-access-assets/images/crecer.png"
     }]
   }]
 }, {
