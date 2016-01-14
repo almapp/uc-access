@@ -78,6 +78,11 @@
       "description": "Federación de Estudiantes de la Universidad Católica de Chile",
       "url": "http://www.feuc.cl",
       "image": "https://almapp.github.io/uc-access/images/feuc.png"
+    }, {
+      "name": "Consejeria Superior",
+      "description": "",
+      "url": "http://www.consejeriasuperior.cl",
+      "image": "https://almapp.github.io/uc-access/images/consejeriasuperior.png"
     }]
   }, {
     "name": "Partidos",
