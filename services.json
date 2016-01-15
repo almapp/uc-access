@@ -8,25 +8,25 @@
       "name": "Portal UC",
       "description": "Organizador personal para estudiantes, docentes y administrativos de la UC",
       "url": "https://portal.uc.cl",
-      "image": ""
+      "image": "https://almapp.github.io/uc-access/images/portaluc.png"
     }, {
       "id": "WEBCURSOS",
       "name": "Web Cursos UC",
       "description": "Plataforma de cursos",
       "url": "http://webcurso.uc.cl/portal",
-      "image": ""
+      "image": "https://almapp.github.io/uc-access/images/webcursos.png"
     }, {
       "id": "SIDING",
       "name": "Siding",
       "description": "Sistema de Información y Gestión de Ingeniería",
       "url": "https://www.ing.uc.cl",
-      "image": ""
+      "image": "https://almapp.github.io/uc-access/images/siding.png"
     }, {
       "id": "LABMAT",
       "name": "Labmat",
       "description": "Plataforma de cursos de Matemáticas",
       "url": "http://www.labmat.puc.cl",
-      "image": ""
+      "image": "https://almapp.github.io/uc-access/images/labmat.png"
     }]
   }]
 }, {
