@@ -19,7 +19,7 @@
       "id": "SIDING",
       "name": "Siding",
       "description": "Sistema de Información y Gestión de Ingeniería",
-      "url": "https://www.ing.uc.cl",
+      "url": "http://www.ing.uc.cl",
       "image": "https://almapp.github.io/uc-access/images/siding.png"
     }, {
       "id": "LABMAT",
