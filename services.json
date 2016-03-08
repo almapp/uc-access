@@ -134,5 +134,13 @@
       "url": "https://www.facebook.com/caco.uc",
       "image": "https://almapp.github.io/uc-access/images/caco.png"
     }]
+  }, {
+    "name": "Educación",
+    "services": [{
+      "name": "CACO",
+      "description": "Centro de Estudiantes de Pedagogía Media",
+      "url": "https://www.facebook.com/cepem.uc",
+      "image": "https://almapp.github.io/uc-access/images/cepem.png"
+    }]
   }]
 }]
