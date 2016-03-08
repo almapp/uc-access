@@ -126,5 +126,13 @@
       "url": "https://www.facebook.com/cearq",
       "image": "https://almapp.github.io/uc-access/images/cearq.png"
     }]
+  }, {
+    "name": "College",
+    "services": [{
+      "name": "CACO",
+      "description": "Centro de Alumnos de College",
+      "url": "https://www.facebook.com/caco.uc",
+      "image": "https://almapp.github.io/uc-access/images/caco.png"
+    }]
   }]
 }]
