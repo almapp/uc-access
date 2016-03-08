@@ -118,5 +118,13 @@
       "url": "http://cai.cl",
       "image": "https://almapp.github.io/uc-access/images/cai.png"
     }]
+  }, {
+    "name": "Arquitectura",
+    "services": [{
+      "name": "CEARQ",
+      "description": "Centro de Estudiantes Arquitectura",
+      "url": "https://www.facebook.com/cearq",
+      "image": "https://almapp.github.io/uc-access/images/cearq.png"
+    }]
   }]
 }]
