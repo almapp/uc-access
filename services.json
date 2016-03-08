@@ -117,6 +117,12 @@
       "description": "Centro de Alumnos de Ingeniería",
       "url": "http://cai.cl",
       "image": "https://almapp.github.io/uc-access/images/cai.png"
+    }, {
+      "name": "ACM-PUC",
+      "description": "Capítulo Estudiantil del Departamento de Computación",
+      "url": "https://www.facebook.com/acm.puc/",
+      "facebook": "acm.puc",
+      "image": "https://almapp.github.io/uc-access/images/dcc-acm.png"
     }]
   }, {
     "name": "Arquitectura",
